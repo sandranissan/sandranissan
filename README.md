@@ -1,8 +1,5 @@
 
-![giphy](https://user-images.githubusercontent.com/83278404/224505787-e9ec01bf-f182-40d3-bce1-2597ade8aad4.gif)
-
 ![giphy (1)](https://user-images.githubusercontent.com/83278404/224505899-d581e553-0570-47f2-bf9b-b9e1cfa40938.gif)
-
 
 <!--
 **sandranissan/sandranissan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
